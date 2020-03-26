@@ -57,10 +57,10 @@ if __name__ == "__main__":
     # https://koronavirus.gov.hu/
     
     df = pd.read_csv('data-hun.csv', sep=';', names=['date', 'infectious', 'died', 'recovered', 'total', 'remark'], parse_dates=['date'])
-    p = makeplot(df, dmax=22, trange=range(6, 22, 5), c="Hungary", ylim=(0,300))
+    p = makeplot(df, dmax=23, trange=[6, 11, 16, 22], c="Hungary", ylim=(0,300))
     p.savefig('plot-hun.png', dpi=150)
     p.show()
-    p1 = makeplot(df, dmax=30, trange=range(6, 22, 5), c="Hungary")
+    p1 = makeplot(df, dmax=30, trange=[6, 11, 16, 22], c="Hungary")
     p1.savefig('plot-hun-large.png', dpi=150)
     p1.show()
 
