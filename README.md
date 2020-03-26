@@ -16,7 +16,7 @@ Results without deeper analysis: **epidemiological measures are
 significantly decreases the exponential rate**.
 
 Here is a plot illustrating the results for Hungary. The decreasing
-exponential rate should result significally less infections in the
+exponential rate should result significantly less infections in the
 next days.
 
 ![Impact of Epidemiological Measures (COVID-19, Hungary)](plot-hun-large.png)
