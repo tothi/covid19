@@ -8,9 +8,15 @@ during the early stage of the spreading.
 
 Regression models seem to fit almost accurately.
 
+Regression models for Hungary as of 2020-03-25:
+
+![Impact of Epidemiological Measures (COVID-19, Hungary)](plot-hun.png)
+
 Results without deeper analysis: **epidemiological measures are
 significantly decreases the exponential rate**.
 
-Here is a plot showing regressions for Hungary:
+Here is a plot illustrating the results for Hungary. The decreasing
+exponential rate should result significally less infections in the
+next days.
 
-![Impact of Epidemiological Measures (COVID-19, Hungary)](plot-hun.png)
+![Impact of Epidemiological Measures (COVID-19, Hungary)](plot-hun-large.png)
