@@ -61,7 +61,7 @@ if __name__ == "__main__":
     p.savefig('plot-hun.png', dpi=150)
     p.show()
     p1 = makeplot(df, dmax=30, trange=[6, 11, 16, 22], c="Hungary")
-    p1.savefig('plot-hun-large.png', dpi=150)
+    p1.savefig('plot-hun-large.png', dpi=200)
     p1.show()
 
     # https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Spain
