@@ -8,7 +8,7 @@ during the early stage of the spreading.
 
 Regression models seem to fit almost accurately.
 
-Regression models for Hungary as of 2020-03-28:
+Regression models for Hungary as of 2020-03-29:
 
 ![Impact of Epidemiological Measures (COVID-19, Hungary)](plot-hun.png)
 
